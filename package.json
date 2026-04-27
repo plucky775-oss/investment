@@ -1,0 +1,14 @@
+{
+  "name": "gemma4-stock-mentor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gemma 4 powered stock analysis PWA for Vercel",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

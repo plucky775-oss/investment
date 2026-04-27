@@ -1,0 +1,15 @@
+{
+  "name": "Gemma 4 주식 멘토",
+  "short_name": "주식멘토",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#101828",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
